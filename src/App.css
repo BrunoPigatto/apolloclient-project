@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+#root {
+  background-image: url("/public/images/galaxy-andromeda.webp");
+  font-family: "Roboto", sans-serif;
+  height: 100%;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
